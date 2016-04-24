@@ -1,0 +1,109 @@
+body{
+	margin: 0;
+	padding: 0;
+	position:absolute;
+	left:50%;
+	margin-left:-960px;
+}
+
+.banner{
+	width: 1920px;
+	height: 1050px;
+	background: url(../img/back.png) no-repeat center;
+	position: absolute;
+	margin-left: 50%;
+	margin-right: 50%;
+}
+.block{
+	width: 1000px;
+	height: 1050px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.title{
+	width: 427px;
+	height: 70px;
+	background: url(../img/2016_0000s_0005.png);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 73px;
+}
+.nav{
+	width: 1000px;
+	height: 64px;
+	background: #f0f8fd;
+	margin-top: 86px;
+}
+nav a{
+	float:left;
+}
+.nav input{
+	width: 228px;
+	height: 35px;
+	margin-top:15px;
+	font-size:20px;
+	color: #919191;
+	float:right;
+	margin-right: 46px;
+	border-radius:17px;
+}
+nav[name=search2]{
+	float: right;
+}
+.win-back{
+	width: 635px;
+	height: 520px;
+	background: url(../img/2016_0001s_0001.png);
+	float: left;
+	margin-top: 22px;
+}
+.windows{
+	width: 595px;
+	height: 480px;
+	position: absolute;
+	margin: 20px;
+	overflow: hidden;
+}
+.in{
+	width: 4800px;
+	height: 480px;
+	float: left;
+	padding: 0;
+}
+ul{
+	margin: 0px;
+}
+.in li{
+	width: 595px;
+	height: 480px;
+	list-style-type: none;
+	float: left;
+}
+.in li img{
+	width: 595px;
+	height: 480px;
+}
+.botton{
+	width: 560px;
+	height: 30px;
+	position: absolute;
+	margin-top: 562px
+}
+.botton div{
+	width: 30px;
+	height: 30px;
+	border-radius: 15px;
+	background: #fff;
+	float: left;
+	margin-left: 40px;
+}
+.member{
+	width: 324px;
+	height: 520px;
+	background: #ffff66;
+	float: right;
+	margin-top: 17px;
+}
+.member img{
+	margin: 21px 47px;
+}
